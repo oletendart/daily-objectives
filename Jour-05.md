@@ -8,6 +8,6 @@
 * [x] Découvrir et comprendre le fonctionnement de SSH
 * [x] Créer sa première clé SSH
 * [x] Créer son premier tunnel SSH avec Github
-* [ ] Faire le wargame bandit jusqu'au niveau 5 
+* [x] Faire le wargame bandit jusqu'au niveau 5 
 * [ ] Planification de la livraison en groupe
 * [ ] Faire le cours "Comprendre le web" (Openclassrooms)
