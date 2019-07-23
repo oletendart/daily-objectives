@@ -17,4 +17,4 @@
     * [x] git push
     * [x] git clone
     * [ ] git remote
-* Faire le parcours Git-it (Nodeschool.io)
+* [x] Faire le parcours Git-it (Nodeschool.io)
