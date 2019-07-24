@@ -11,3 +11,4 @@
 * [x] Faire le wargame bandit jusqu'au niveau 5 
 * [x] Planification de la livraison en groupe
 * [x] Faire le cours "Comprendre le web" (Openclassrooms)
+
