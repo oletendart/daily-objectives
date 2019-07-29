@@ -16,4 +16,4 @@
   * [x] Comprendre le principe des options dans les commandes
 * [ ] Découverte de Vim (Vimtutor)
 * [x] Découverte de VS Code
-* [ ] Choix de son éditeur, configuration et customisation
+* [x] Choix de son éditeur, configuration et customisation
