@@ -4,10 +4,10 @@
 
 
 * [ ] Décrouvrir le Javascript
-  * [ ] Comprendre ce qu'est Javascript, ce qu'il peut, ce qu'il ne peut pas (http://javascript.info/intro)
+  * [x] Comprendre ce qu'est Javascript, ce qu'il peut, ce qu'il ne peut pas (http://javascript.info/intro)
   * [ ] Découvrir la documentation officielle JavaScript (http://javascript.info/manuals-specifications) : 
-    * [ ] Comprendre ce qu'est la spécification `ECMA-262`
-    * [ ] Comprendre ce qu'est le `TC-39`
+    * [x] Comprendre ce qu'est la spécification `ECMA-262`
+    * [x] Comprendre ce qu'est le `TC-39`
     * [ ] Lister les bonnes sources de documentation
 
 * [ ] Algo : 
