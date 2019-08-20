@@ -10,12 +10,12 @@
     * [ ] Comprendre comment sont comparées des valeurs de types différents ?
     * [x] Comprendre le mécanisme de comparaison avec `null` et `undefined`
 
-* [ ] Algo (Révision) : 
-  * [ ] Revoir le mécanisme de tri par insertion (Insertion Sort)
-  * [ ] Revoir le mécanisme de tri à bulles (Bubble Sort)
-  * [ ] Revoir le mécanisme de tri par selection (Selection Sort)
-  * [ ] Revoir le mécanisme de tri par tas (Heap Sort)
-  * [ ] Revoir le mécanisme de tri fusion (Merge Sort)
+* [x] Algo (Révision) : 
+  * [x] Revoir le mécanisme de tri par insertion (Insertion Sort)
+  * [x] Revoir le mécanisme de tri à bulles (Bubble Sort)
+  * [x] Revoir le mécanisme de tri par selection (Selection Sort)
+  * [x] Revoir le mécanisme de tri par tas (Heap Sort)
+  * [x] Revoir le mécanisme de tri fusion (Merge Sort)
 
 * [ ] CSS : 
   * [x] Découverte des icones vectorielles (https://fontawesome.com/)
@@ -23,4 +23,4 @@
     * [x] Comprendre quel est l'intérêt d'utiliser un préprocesseur CSS 
     * [ ] Comprendre le mécanisme du preprocessing (input => output)
     * [ ] Découvrir le préprocesseur CSS le plus répandu : SASS
-      * [ ] Installation de SASS (npm version)
+      * [x] Installation de SASS (npm version)
