@@ -3,12 +3,12 @@
 ## Mardi 20/08/2019
 
 
-* [ ] Javascript :
-  * [ ] Comprendre le fonctionnement des interactions dans le navigateur avec l'`alert`, le `prompt` et le `confirm` (https://javascript.info/alert-prompt-confirm)
-    * [ ] Faire l'exercice
+* [x] Javascript :
+  * [x] Comprendre le fonctionnement des interactions dans le navigateur avec l'`alert`, le `prompt` et le `confirm` (https://javascript.info/alert-prompt-confirm)
+    * [x] Faire l'exercice
 
-* [ ] Algo : 
-  * [ ] Découvrir le tri rapide (Quicksort)
+* [x] Algo : 
+  * [x] Découvrir le tri rapide (Quicksort)
 
 * [ ] CSS : 
   * [ ] Savoir compiler du SCSS (`sass --watch`)
