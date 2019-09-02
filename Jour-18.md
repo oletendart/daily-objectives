@@ -11,6 +11,6 @@
   * [ ] Ecrire en pseudocode le Merge Sort (création pure)
   * [ ] Faire valider son code par un "élève" qui joue le rôle de l'ordinateur
 
-* [ ] CSS : 
-  * [ ] Découvrir l'approche `BEM` en CSS (https://en.bem.info/methodology/quick-start/)
-    * [ ] Comprendre l'intérêt de cette convention
+* [x] CSS : 
+  * [x] Découvrir l'approche `BEM` en CSS (https://en.bem.info/methodology/quick-start/)
+    * [x] Comprendre l'intérêt de cette convention
