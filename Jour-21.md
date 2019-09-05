@@ -15,7 +15,7 @@
     * [ ] Savoir copier un objet (cloner)
 
 * [ ] Algo : 
-  * [ ] Ecrire en pseudocode le Bubble Sort (création pure)
+  * [x] Ecrire en pseudocode le Bubble Sort (création pure)
   * [ ] Faire valider son code par un "élève" qui joue le rôle de l'ordinateur
 
 
