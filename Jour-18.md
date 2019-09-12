@@ -3,8 +3,8 @@
 ## Mercredi 28/08/2019
 
 
-* [ ] Javascript :
-  * [ ] Comprendre le fonctionnement des boucles `while` et `for` (https://javascript.info/while-for)
+* [x] Javascript :
+  * [x] Comprendre le fonctionnement des boucles `while` et `for` (https://javascript.info/while-for)
     * [x] Faire les 7 exercices
 
 * [ ] Algo : 
