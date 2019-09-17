@@ -15,19 +15,19 @@
       * [ ] Comprendre la différence entre une `collection` et un `array`
       * [ ] Comprendre la différence entre un `element` et un `node`
       * [ ] Bien comprendre à quoi correspond : 
-        * [ ] `parentElement`
-        * [ ] `children`
-        * [ ] `firstElementChild`
-        * [ ] `lastElementChild`
-        * [ ] `previousElementSibling`
-        * [ ] `nextElementSibling`
-        * [ ] `parentNode`
-        * [ ] `childNodes`
-        * [ ] `firstChild`
-        * [ ] `lastChild`
-        * [ ] `previousSibling`
-        * [ ] `nextSibling`
-    * [ ] Faire les exercices
+        * [x] `parentElement`
+        * [x] `children`
+        * [x] `firstElementChild`
+        * [x] `lastElementChild`
+        * [x] `previousElementSibling`
+        * [x] `nextElementSibling`
+        * [x] `parentNode`
+        * [x] `childNodes`
+        * [x] `firstChild`
+        * [x] `lastChild`
+        * [x] `previousSibling`
+        * [x] `nextSibling`
+    * [x] Faire les exercices
 
 
 
