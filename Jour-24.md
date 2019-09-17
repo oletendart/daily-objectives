@@ -3,8 +3,8 @@
 ## Mercredi 11/09/2019
 
 
-* [ ] Javascript :
-  * [ ] Approfondir les `strings` en Javascript (https://javascript.info/string)
+* [x] Javascript :
+  * [x] Approfondir les `strings` en Javascript (https://javascript.info/string)
   * [x] Comprendre le fonctionnement des tableaux en Javascript (https://javascript.info/array)
   * [x] Approfondir les tableaux en Javascript en faisant le tour des méthodes disponibles (https://javascript.info/array-methods)
 
