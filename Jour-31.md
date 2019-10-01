@@ -4,20 +4,21 @@
 
 ### Javascript :
 
-  * [ ] Comprendre la `recursion` et le `stack` en Javascript (https://javascript.info/recursion)
-    * [ ] Faire les exercices
+  * [x] Comprendre la `recursion` et le `stack` en Javascript (https://javascript.info/recursion)
+    * [x] Faire les exercices
   
 
 
 ### Frameworks JS : 
 
-  * [ ] Découvrir ce que sont les frameworks et leur utilité (recherche personnelle)
+  * [x] Découvrir ce que sont les frameworks et leur utilité (recherche personnelle)
 
   * [ ] Comprendre l'utilité des frameworks JS frontend (recherche en groupe)
 
-  * [ ] Comprendre la différence entre un framework et une librairie
+  * [x] Comprendre la différence entre un framework et une librairie (Le framework donne quand même une structure, un modèle à suivre, tandis qu'une librairie on pioche ce qu'on veut dedans, mais sans avoir de réelle directives)
 
-  * [ ] Découvrir Vue JS (https://fr.vuejs.org/v2/guide/)
+  * [x] Découvrir Vue JS (https://fr.vuejs.org/v2/guide/)
 
-  * [ ] Installer `Vue CLI` (https://cli.vuejs.org/)
-    * [ ] Créer ses premiers projets (répétitions créations / suppression, au moins une dizaine de fois)
+  * [x] Installer `Vue CLI` (https://cli.vuejs.org/)
+    * [x] Créer ses premiers projets (répétitions créations / suppression, au moins une dizaine de fois)
+=> *vue create* nom_du_dossier (Création d'un projet)
