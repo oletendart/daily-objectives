@@ -6,8 +6,8 @@
 
   * [ ] Comprendre comment fonctionnent `WeaKmap` et `WeakSet` (https://javascript.info/weakmap-weakset)
     * [ ] Comprendre la principale différence entre : 
-      * [ ] `WeakMap` et `Map`
-      * [ ] `WeakSet` `Set`
+      * [x] `WeakMap` et `Map`
+      * [x] `WeakSet` `Set`
     * [ ] Faire les exercices
   
 
