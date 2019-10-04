@@ -7,9 +7,9 @@
 
   * [ ] Savoir cibler dans le `DOM` (https://javascript.info/searching-elements-dom)
     * Savoir exactement ce que va cibler : 
-      * [ ] `querySelector`
-      * [ ] `querySelectorAll`
-      * [ ] `getElementById`
+      * [x] `querySelector`
+      * [x] `querySelectorAll`
+      * [x] `getElementById`
       * [ ] `getElementsByName`
       * [ ] `getElementsByTagName`
       * [ ] `getElementsByClassName`
