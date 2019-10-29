@@ -4,7 +4,7 @@
 
 
 * [x] Savoir se documenter (MDN)
-* [ ] Comprendre la différence entre Frontend et Backend
+* [x] Comprendre la différence entre Frontend et Backend
 * [x] Découverte de la sainte trinité du web (HTML, CSS et JS)
   * [x] Comprendre les différences et rôle de chacun
 * [x] Découvrir les bases de HTML :
