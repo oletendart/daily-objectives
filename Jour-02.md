@@ -7,7 +7,7 @@
 * [x] Savoir comment aborder la gestion de son temps
 * [x] Savoir comment poser des questions
 * [x] Savoir comment aborder un problème
-* [ ] Configuration de son environnement de travail
+* [x] Configuration de son environnement de travail
   * [x] Mise à jour Linux
   * [x] Installation (Slack)
   * [x] Installation éditeur de code (Vim + VS Code)
