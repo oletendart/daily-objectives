@@ -11,7 +11,7 @@
 
 ### SQL :
 
-* [ ] Comprendre la différence entre le `SQL` et le `NoSQL`
+* [x] Comprendre la différence entre le `SQL` et le `NoSQL`
 
 * [ ] Comprendre les types de données dans `PostgreSQL`
   * [ ] Les types numériques :
