@@ -20,6 +20,6 @@
   * Savoir deployer une application Vue JS sur Github Pages
     (https://cli.vuejs.org/guide/deployment.html#github-pages)
 
-  * [ ] Découvrir `Vuetify` (https://vuetifyjs.com/en/)
+  * [x] Découvrir `Vuetify` (https://vuetifyjs.com/en/)
 
   * [ ] Découvrir `Awesome Vue.js` (https://awesome-vue.js.org/)
