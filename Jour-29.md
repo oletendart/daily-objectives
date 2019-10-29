@@ -5,7 +5,7 @@
 ### Javascript :
 
   * [ ] Comprendre comment fonctionnent `WeaKmap` et `WeakSet` (https://javascript.info/weakmap-weakset)
-    * [ ] Comprendre la principale différence entre : 
+    * [x] Comprendre la principale différence entre : 
       * [x] `WeakMap` et `Map`
       * [x] `WeakSet` `Set`
     * [ ] Faire les exercices
@@ -16,11 +16,11 @@
 
   * [ ] Comprendre le fonctionnement des actions par défaut du navigateur (https://javascript.info/default-browser-action)
     * [ ] Savoir quel comportement par défaut le navigateur enclenche sur :
-      * [ ] Le clic gauche de la souris (down)
-      * [ ] Le clic droit
+      * [x] Le clic gauche de la souris (down)
+      * [x] Le clic droit
       * [ ] Le clic dans un `checkbox`
       * [ ] Un `submit`
-      * [ ] Une pression d'une touche du clavier
+      * [x] Une pression d'une touche du clavier
     * [ ] Savoir comment empêcher le comportement par défaut
 
   * [ ] Approfondir les évènements basés sur la souris (https://javascript.info/mouse-events-basics)
