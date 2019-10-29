@@ -18,10 +18,10 @@
 
   * [ ] Découvrir les évènements du `DOM` (https://javascript.info/introduction-browser-events)
     * Comprendre ce que sont les : 
-      * [ ] évènements liés à la souris
-      * [ ] évènements liés aux formulaires
-      * [ ] évènements liés au clavier
+      * [x] évènements liés à la souris
+      * [x] évènements liés aux formulaires
+      * [x] évènements liés au clavier
       * [ ] évènements liés au document
       * [ ] évènements liés au CSS
     * [ ] Comprendre ce qu'est un `handler` et comment cela fonctionne
-    * [ ] Comprendre le fonctionnement et l'utilité de `addEventListener` et `removeEventListener`
+    * [x] Comprendre le fonctionnement et l'utilité de `addEventListener` et `removeEventListener`
