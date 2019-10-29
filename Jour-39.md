@@ -15,10 +15,10 @@
 * [x] Savoir ce qu'est `SQL` et une base de données relationnelle (https://youtu.be/MZdO1UbTG4U)
 * [x] Découvrir ce qu'est `PostgreSQL` (https://youtu.be/tzbA7VniRpw)
 * [x] Installation de `PostgreSQL`
-* [ ] Découvrir le fonctionnement du `REPL` de `PostgreSQL`
-* [ ] Création/suppression de comptes utilisateurs
-* [ ] Création de bases de données (https://youtu.be/DvDOU-v822w)
-* [ ] Suppression de bases de données (https://youtu.be/IWkNbJhn2TM)
+* [x] Découvrir le fonctionnement du `REPL` de `PostgreSQL`
+* [x] Création/suppression de comptes utilisateurs
+* [x] Création de bases de données (https://youtu.be/DvDOU-v822w)
+* [x] Suppression de bases de données (https://youtu.be/IWkNbJhn2TM)
 * [ ] Découvrir les rôles dans `PostgreSQL` (https://docs.postgresql.fr/12/user-manag.html)
 
 
